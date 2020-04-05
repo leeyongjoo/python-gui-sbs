@@ -13,5 +13,5 @@ pip install -r requirements.txt
 3. pycryptodome
 4. threading
 
-## Example
-![example sbs](/_examples/python-gui-sbs.gif)
+## Demo
+![demo sbs](/_examples/python-gui-sbs.gif)
