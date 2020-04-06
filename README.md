@@ -44,5 +44,5 @@ pip install -r requirements.txt
 <img src="https://user-images.githubusercontent.com/46367323/78575899-ef006800-7866-11ea-8c04-6ebab7d2e14a.png" width="700">
 
 6. 서버 로그, 로그(암호문)
-<img src="https://user-images.githubusercontent.com/46367323/78575929-f6277600-7866-11ea-81d6-2687a147055d.png" width="300">
-<img src="https://user-images.githubusercontent.com/46367323/78575966-02133800-7867-11ea-96a2-4622f4c4dc7a.png" width="600"></img>
+<img src="https://user-images.githubusercontent.com/46367323/78575929-f6277600-7866-11ea-81d6-2687a147055d.png" width="393">
+<img src="https://user-images.githubusercontent.com/46367323/78575966-02133800-7867-11ea-96a2-4622f4c4dc7a.png" width="797"></img>
